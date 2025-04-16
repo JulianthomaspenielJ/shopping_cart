@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "500338137984",
+    "firebase_url": "https://bookacook-278511.firebaseio.com",
+    "project_id": "bookacook-278511",
+    "storage_bucket": "bookacook-278511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500338137984:android:3e2804827a7805b274bf65",
+        "android_client_info": {
+          "package_name": "com.bookacook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500338137984-r85qco2g48bva3pqrga0fjp1v02i8n2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCARiT1dmjPalCHGu4sRY7oyRhJfttBQJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500338137984-r85qco2g48bva3pqrga0fjp1v02i8n2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

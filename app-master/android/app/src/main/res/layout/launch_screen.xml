@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_drawable">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center|top"
+        android:layout_gravity="center|top"
+        android:src="@drawable/launch_screen" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Book A Cook \nWho Love To Cook"
+        android:textSize="24dp"
+        android:textColor="@color/dark_cyan"
+        android:paddingRight="30dp"
+        android:paddingLeft="30dp"
+        android:fontFamily="@font/rubik_one_regular_400"
+    />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="There’s a bond among a kitchen staff, I think. You spend more time with your chef in the kitchen than you do with your own family. ~ Gordon Ramsay"
+        android:textSize="13dp"
+        android:textColor="@color/dark_cyan"
+        android:paddingRight="30dp"
+        android:paddingLeft="30dp"
+        android:layout_marginTop="10dp"
+    />
+</LinearLayout>
